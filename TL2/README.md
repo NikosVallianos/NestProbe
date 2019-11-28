@@ -1,18 +1,12 @@
-# NestProbe TL1
+# NestProbe TL2
 
----
-Development of the TL1 ceased upon development of the
-[TL2](https://github.com/NikosVallianos/NestProbe/TL2) model. The TL1 is a
-fully functional temperature logger but will no longer be devloped. The only
-remaining issue is the addition of capacitors to the RTC crystal to increase
-timing accuracy, wich will be back-ported when solved for the TL2.
----
-
-
-The NestProbe TL1 is a low cost, high accuracy, long-life temperature logger
+The NestProbe TL2 is a low cost, high accuracy, long-life temperature logger
 developed at Wildlife Sense for sea turtle egg incubation research.
 
-Some aspects and decisions during development have been documented at [hackaday.io/project/27560-low-costpowersize-temperature-logger](https://hackaday.io/project/27560-low-costpowersize-temperature-logger).
+Some aspects and decisions during development of the TL2 and its predecessor,
+the TL1, have been documented at
+[hackaday.io/project/27560-low-costpowersize-temperature-logger]
+(https://hackaday.io/project/27560-low-costpowersize-temperature-logger).
 
 The main components in the TL1 are:
 
