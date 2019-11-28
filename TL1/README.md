@@ -1,12 +1,12 @@
 # NestProbe TL1
 
-*************
+---
 Development of the TL1 ceased upon development of the
 [TL2](https://github.com/NikosVallianos/NestProbe/TL2) model. The TL1 is a
 fully functional temperature logger but will no longer be devloped. The only
 remaining issue is the addition of capacitors to the RTC crystal to increase
 timing accuracy, wich will be back-ported when solved for the TL2.
-*************
+---
 
 
 The NestProbe TL1 is a low cost, high accuracy, long-life temperature logger
